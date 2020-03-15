@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff">
+    <ImageView android:id="@+id/full_image_view"
+        android:background="#a4c639"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:adjustViewBounds="true"/>
+    <!-- https://proandroiddev.com/a-guide-for-android-imageview-scaletype-and-adjustviewbounds-64a1e4a35503 -->
+</FrameLayout>
