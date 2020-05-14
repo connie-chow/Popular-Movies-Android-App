@@ -3,7 +3,8 @@
 
 App that loads Most Popular and Highly Rated Movies
 
-![Screenshot1](https://github.com/connie-chow/PopularMovies-1/blob/popular movies - movie list.png?raw=true)
+![Screenshot1](https://github.com/connie-chow/PopularMovies-1/blob/master/screenshot1.png?raw=true)
+![Screenshot2](https://github.com/connie-chow/PopularMovies-1/blob/master/screenshot2.png?raw=true)
 
 * Discover the Most Popular and Highly Rated movies 
 * Movie Summary, Release Date, Ratings, Reviews, Trailers 
