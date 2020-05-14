@@ -10,3 +10,12 @@ App that loads Most Popular and Highly Rated Movies
 * Movie Summary, Release Date, Ratings, Reviews, Trailers 
 * Ability to "Mark as Favorite" and access these movies under "Favorites" tab
 * Sort movies by "Most Popular", "High Rated" or "Favorites"
+
+
+Android components: 
+* LiveData
+* Room Database
+* Intents
+* Lifecycle
+* Adapter
+* RecyclerView
